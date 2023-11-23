@@ -40,4 +40,4 @@ The following hyperparameters were used during training:
 
 ### Usage
 
-In order to use finetuned mode, you can [click here.](https://huggingface.co/nijatzeynalov/wav2vec2-large-mms-1b-azerbaijani-common_voice15.0) 
+In order to use finetuned model, you can [click here.](https://huggingface.co/nijatzeynalov/wav2vec2-large-mms-1b-azerbaijani-common_voice15.0) 
